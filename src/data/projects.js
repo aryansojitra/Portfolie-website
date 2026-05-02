@@ -26,7 +26,7 @@ export const projects = [
         image: "https://res.cloudinary.com/djnkytwf7/image/upload/v1777695403/Screenshot_2026-05-02_094551_whxytf.png",
         category: "UI Components",
         technologies: ["React", "Tailwind CSS"],
-        // demoUrl: "https://example.com/ui-kit-demo",
+        demoUrl: "https://aryansojitra.github.io/Portfolie-website/",
         githubUrl: "https://github.com/aryansojitra/portfolio-website"
     },
     {
