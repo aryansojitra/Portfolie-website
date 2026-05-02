@@ -5,7 +5,7 @@ export const PERSONAL_INFO = {
   email: 'aryanpatel0344@gmail.com',
   location: 'Ahmedabad, India',
   tagline: 'Building scalable web apps with modern technologies and clean UI.',
-  resume: '/images/resume.pdf',
+  resume: './images/resume.pdf',
   bio: [
     "I am a passionate Full-Stack Developer with hands-on experience in React, Node.js, Express, and MongoDB.",
     "I have built projects like Agriather, an e-commerce platform for agricultural products with multiple user roles.",
